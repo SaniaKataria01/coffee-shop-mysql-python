@@ -1,1 +1,1 @@
-# coffee-shop-mysql-python
+# coffee-shop-python
